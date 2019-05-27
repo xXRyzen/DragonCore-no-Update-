@@ -1,0 +1,19 @@
+name: DragonCore
+main: hola\Main
+author: jose
+version: 2.0.0 pro
+api: 3.0.0
+
+commands:
+  setrank:
+    description: "RankSet"
+  mod:
+    description: "KickJUgadir"
+  hub:
+    description: "Hub-Command"
+  lobby:
+    description: "Lobby-Command"
+  edit:
+    description: "Edit"
+  shop:
+    description: "Edit-SHOP"
